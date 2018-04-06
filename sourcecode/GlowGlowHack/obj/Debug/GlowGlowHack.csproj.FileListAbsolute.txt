@@ -1,0 +1,11 @@
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\obj\Debug\GlowGlowHack.csprojResolveAssemblyReference.cache
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\obj\Debug\GlowGlowHack.Form1.resources
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\obj\Debug\GlowGlowHack.Properties.Resources.resources
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\obj\Debug\GlowGlowHack.csproj.GenerateResource.Cache
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\obj\Debug\GlowGlowHack.csproj.CoreCompileInputs.cache
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\bin\Debug\GlowGlowHack.exe.config
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\bin\Debug\GlowGlowHack.exe
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\bin\Debug\GlowGlowHack.pdb
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\bin\Debug\VAMemory.dll
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\obj\Debug\GlowGlowHack.exe
+G:\My Work\Development\GlowGlowHack\GlowGlowHack\obj\Debug\GlowGlowHack.pdb
