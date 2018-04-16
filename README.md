@@ -1,21 +1,42 @@
 # CSGlow-Wall-Hack
+CSGlowWallHack is an wallhack for CS:GO that possibilities the player reveal where your enemies are, by glowing the enemy on the screen.
+This is absoluty ilegal on the CS:GO, the Valve don't allow any type of cheating on the game so:
+```
+DON'T USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME
+```
+This wall hack IS DECTECTED by the VAC (Valve Anti-Cheating System). 
 
-CSGlowWallHack é um WallHack de CSGO.
-WallHack possibilida ao jogador vizualisar seus inimigos, mesmo que estejam atrás de algum objeto, normalmente, uma parede, por isso o nome Wall Hack :).
+### So, why create a wallhack that can be detected?
+The objective is learning how to manipulate the memory on the system using the VAMemory library.
+In this code, i lear how to dump memory, get the positions using Cheating Engine (an software that helps to see the memory) and calculate offsets.
+It's not so hard to manipulate memory and this help me to understand what can i do to create an anti-cheating systema for my self.
 
+Attention: hacks are illegal, so my idea isn't incentivize the use or creation of the hacks for ANY games. Hacks just destroy games, so please, don't use this for cheating on games.
+
+## So, how to test it?
+First, you need to create a LOCAL game with Bots on CS:GO (DON'T USE THIS ONLINE)
+After that, go on CS:GO console and type this:
+```
+sv_cheats 1
+```
+This enables the cheating systema (just work for local game) and disable the VAC system.
+Now, build and run the code. 
+When the screen show up, click on the button to see your enemies glowing behind the wall on the game.
+
+
+Again: 
+```
+DON'T USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME
+```
+
+I don't have any responsibility for your actions!
+
+
+In portuguese:
 ```
 !!NÃO USE ESTE HACK PARA TRAPAÇAS EM MODO ONLINE, VOCÊ SERÁ BANIDO!!
 ```
-
-### Objetivo
-O objetivo desde projeto NÃO é incentivar de forma alguma o uso de hack, e sim, mostrar como é possível manipular a memória de um software, atraver de um dumps, cálculis de offset e um pouco de maldade.
-
-Hacks são ilegais, atrapalham a experiência do jogador e podem te banir permanentemente de um jogo. Por isso, não utilize hacks!
-
-### Como testar o hack
-Se você quiser testar o hack, você precisa jogar em modo local com BOTS. É importante que você NÃO utilize este hack enquanto estiver jogando no modo competitivo. Você levará um banimento VAC (Valve Anti Cheating) na hora.
-Você ainda pode ativar o moto cheating do game durante o jogo local para recolher dados e entender o esta acontecendo com a memória durante os testes.
-
+In spanish:
 ```
-!!NÃO USE ESTE HACK PARA TRAPAÇAS EM MODO ONLINE, VOCÊ SERÁ BANIDO!!
+!!NO use este truco para hacer trampas en el modo online, se le prohibió!!
 ```
