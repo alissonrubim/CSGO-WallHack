@@ -1,4 +1,4 @@
-# CSGO-WallHack
+# CSGO-WallHack  🔫🌟
 CSGO WallHack is a wall hack (do not say!) for CS:GO that makes it possible to see enymies throw the wall. Basically the hack enabled the glowing feature, already in the CS:GO core, that is showing in a after-death-scene, but in this case, it's enabling it in the middle of the match.
 
 This is absoluty ilegal on the CS:GO, Valve don't allow any type of cheating on the game so:
