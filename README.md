@@ -3,7 +3,7 @@ CSGO WallHack is a wall hack (do not say!) for CS:GO that makes it possible to s
 
 This is absoluty ilegal on the CS:GO, Valve don't allow any type of cheating on the game so:
 ```
-☠ DO  NOT USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME ☠
+⛔ DO  NOT USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME ⛔
 ```
 This wall hack IS DECTECTED by the VAC (Valve Anti-Cheating System) and the porpose of this repository is learn and study how memory allocation works. 
 
@@ -27,7 +27,7 @@ When the screen pop's up, click on the button to see your enemies glowing behind
 
 Again: 
 ```
-☠ DON'T USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME ☠
+⛔ DON'T USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME ⛔
 ```
 
 I don't have any responsibility for your actions!
@@ -35,9 +35,9 @@ I don't have any responsibility for your actions!
 
 In portuguese:
 ```
-☠ NÃO USE ESTE HACK PARA TRAPAÇAS EM MODO ONLINE, VOCÊ SERÁ BANIDO!! ☠
+⛔ NÃO USE ESTE HACK PARA TRAPAÇAS EM MODO ONLINE, VOCÊ SERÁ BANIDO!! ⛔
 ```
 In spanish:
 ```
-☠ !!NO use este truco para hacer trampas en el modo online, se le prohibió!! ☠
+⛔ !!NO use este truco para hacer trampas en el modo online, se le prohibió!! ⛔
 ```
