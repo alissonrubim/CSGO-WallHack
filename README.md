@@ -1,27 +1,28 @@
-# CSGlow-Wall-Hack
-CSGlowWallHack is an wallhack for CS:GO that possibilities the player reveal where your enemies are, by glowing the enemy on the screen.
-This is absoluty ilegal on the CS:GO, the Valve don't allow any type of cheating on the game so:
+# CSGO-WallHack
+CSGO WallHack is a wall hack (do not say!) for CS:GO that makes it possible to see enymies throw the wall. Basically the hack enabled the glowing feature, already in the CS:GO core, that is showing in a after-death-scene, but in this case, it's enabling it in the middle of the match.
+
+This is absoluty ilegal on the CS:GO, Valve don't allow any type of cheating on the game so:
 ```
-DON'T USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME
+DO  NOT USE THIS HACK FOR CHETING, YOU WILL BE BANNED FROM THE GAME
 ```
-This wall hack IS DECTECTED by the VAC (Valve Anti-Cheating System). 
+This wall hack IS DECTECTED by the VAC (Valve Anti-Cheating System) and the porpose of this repository is learn and study how memory allocation works. 
 
 ### So, why create a wallhack that can be detected?
 The objective is learning how to manipulate the memory on the system using the VAMemory library.
-In this code, i lear how to dump memory, get the positions using Cheating Engine (an software that helps to see the memory) and calculate offsets.
-It's not so hard to manipulate memory and this help me to understand what can i do to create an anti-cheating systema for my self.
+In this code, I've learned how to dump memory, get the positions using Cheating Engine and calculate offsets.
+It's not so hard to manipulate memory and this project helped me to understand what can I do to create an anti-cheating systema for my self.
 
 Attention: hacks are illegal, so my idea isn't incentivize the use or creation of the hacks for ANY games. Hacks just destroy games, so please, don't use this for cheating on games.
 
 ## So, how to test it?
-First, you need to create a LOCAL game with Bots on CS:GO (DON'T USE THIS ONLINE)
-After that, go on CS:GO console and type this:
+First, you need to create a LOCAL game with Bots on CS:GO (DON'T USE THIS ONLINE, I'm warning you, maybe the third time now XD)
+After that, go ti CS:GO console and type this:
 ```
 sv_cheats 1
 ```
-This enables the cheating systema (just work for local game) and disable the VAC system.
+This enables the cheating systema (just work for local game, of course) and disable the VAC system.
 Now, build and run the code. 
-When the screen show up, click on the button to see your enemies glowing behind the wall on the game.
+When the screen pop's up, click on the button to see your enemies glowing behind the wall on the game.
 
 
 Again: 
